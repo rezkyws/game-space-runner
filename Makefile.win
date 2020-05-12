@@ -1,0 +1,43 @@
+# Project: LodeRunner12
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = main.o CPP/Imaniar_S_F.o CPP/Luthfi_A.o CPP/Rezky_W_S.o CPP/Rendi_K_A.o CPP/Satria_N_B.o
+LINKOBJ  = main.o CPP/Imaniar_S_F.o CPP/Luthfi_A.o CPP/Rezky_W_S.o CPP/Rendi_K_A.o CPP/Satria_N_B.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib32" -static-libgcc -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 -lwinmm -m32
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = LodeRunner12.exe
+CXXFLAGS = $(CXXINCS) -m32
+CFLAGS   = $(INCS) -m32
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+CPP/Imaniar_S_F.o: CPP/Imaniar_S_F.cpp
+	$(CPP) -c CPP/Imaniar_S_F.cpp -o CPP/Imaniar_S_F.o $(CXXFLAGS)
+
+CPP/Luthfi_A.o: CPP/Luthfi_A.cpp
+	$(CPP) -c CPP/Luthfi_A.cpp -o CPP/Luthfi_A.o $(CXXFLAGS)
+
+CPP/Rezky_W_S.o: CPP/Rezky_W_S.cpp
+	$(CPP) -c CPP/Rezky_W_S.cpp -o CPP/Rezky_W_S.o $(CXXFLAGS)
+
+CPP/Rendi_K_A.o: CPP/Rendi_K_A.cpp
+	$(CPP) -c CPP/Rendi_K_A.cpp -o CPP/Rendi_K_A.o $(CXXFLAGS)
+
+CPP/Satria_N_B.o: CPP/Satria_N_B.cpp
+	$(CPP) -c CPP/Satria_N_B.cpp -o CPP/Satria_N_B.o $(CXXFLAGS)

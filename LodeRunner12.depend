@@ -1,0 +1,506 @@
+# depslib dependency file v1.0
+1554289061 source:c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\cpp\181511017.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	"..\\Header\\181511017.h"
+	"..\\Header\\181511066.h"
+
+1554058636 c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\\header\\181511017.h
+	<stdio.h>
+
+1554000464 c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\\header\\181511066.h
+	<stdio.h>
+
+1554287767 source:c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\cpp\181511029.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	"..\\Header\\181511029.h"
+	"..\\Header\\181511066.h"
+	<time.h>
+
+1554024722 c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\\header\\181511029.h
+	<stdio.h>
+
+1554002364 source:c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\cpp\181511063.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	"..\\Header\\181511063.h"
+
+1554002366 c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\\header\\181511063.h
+	<stdio.h>
+
+1554291116 source:c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\cpp\181511066.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	"..\\Header\\181511066.h"
+
+1554291101 source:c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	"Header\\181511017.h"
+	"Header\\181511021.h"
+	"Header\\181511029.h"
+	"Header\\181511063.h"
+	"Header\\181511066.h"
+
+1554058636 c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\header\\181511017.h
+	<stdio.h>
+
+1554002366 c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\header\\181511021.h
+	<stdio.h>
+	<malloc.h>
+	<stdbool.h>
+
+1554024722 c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\header\\181511029.h
+	<stdio.h>
+
+1554002366 c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\header\\181511063.h
+	<stdio.h>
+
+1554000464 c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\header\\181511066.h
+	<stdio.h>
+
+1554288393 source:c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\cpp\181511021.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	<windows.h>
+	"..\\Header\\181511017.h"
+	"..\\Header\\181511021.h"
+	"..\\Header\\181511029.h"
+
+1554002366 c:\users\rezuki\downloads\compressed\luthfi (hampir) jadi-20190403t071015z-001\luthfi (hampir) jadi\\header\\181511021.h
+	<stdio.h>
+	<malloc.h>
+	<stdbool.h>
+
+1554349147 source:c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\cpp\181511021.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	<windows.h>
+	<time.h>
+	"..\\Header\\181511017.h"
+	"..\\Header\\181511021.h"
+	"..\\Header\\181511029.h"
+	"..\\Header\\181511066.h"
+
+1554263360 c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\\header\\181511017.h
+	<stdio.h>
+
+1554263362 c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\\header\\181511021.h
+	<stdio.h>
+	<malloc.h>
+	<stdbool.h>
+
+1554346127 c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\\header\\181511029.h
+	<stdio.h>
+
+1554348627 source:c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\cpp\181511029.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	"..\\Header\\181511029.h"
+	"..\\Header\\181511066.h"
+	<time.h>
+
+1554346773 c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\\header\\181511066.h
+	<stdio.h>
+
+1554343768 source:c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\cpp\181511017.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	"..\\Header\\181511017.h"
+	"..\\Header\\181511063.h"
+	"..\\Header\\181511066.h"
+
+1554265940 c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\\header\\181511063.h
+	<stdio.h>
+
+1554348627 source:c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\cpp\181511066.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	"..\\Header\\181511066.h"
+	"..\\Header\\181511063.h"
+
+1554349084 source:c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<time.h>
+	"Header\\181511017.h"
+	"Header\\181511021.h"
+	"Header\\181511029.h"
+	"Header\\181511063.h"
+	"Header\\181511066.h"
+
+1554263360 c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\header\\181511017.h
+	<stdio.h>
+
+1554263362 c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\header\\181511021.h
+	<stdio.h>
+	<malloc.h>
+	<stdbool.h>
+
+1554346127 c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\header\\181511029.h
+	<stdio.h>
+
+1554265940 c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\header\\181511063.h
+	<stdio.h>
+
+1554346773 c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\header\\181511066.h
+	<stdio.h>
+
+1554335159 source:c:\users\rezuki\downloads\compressed\luthfi (hampir dikit lagi) jadi-20190403t213436z-001\luthfi (hampir dikit lagi) jadi\cpp\181511063.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	"..\\Header\\181511063.h"
+
+1555208592 source:c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\cpp\181511017.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	"..\\Header\\181511017.h"
+	"..\\Header\\181511063.h"
+	"..\\Header\\181511066.h"
+
+1554263360 c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\\header\\181511017.h
+	<stdio.h>
+
+1554265940 c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\\header\\181511063.h
+	<stdio.h>
+
+1554346773 c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\\header\\181511066.h
+	<stdio.h>
+
+1555206575 source:c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\cpp\181511021.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	<windows.h>
+	<time.h>
+	"..\\Header\\181511017.h"
+	"..\\Header\\181511021.h"
+	"..\\Header\\181511029.h"
+	"..\\Header\\181511066.h"
+
+1554263362 c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\\header\\181511021.h
+	<stdio.h>
+	<malloc.h>
+	<stdbool.h>
+
+1554346127 c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\\header\\181511029.h
+	<stdio.h>
+
+1554349264 source:c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\cpp\181511029.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	"..\\Header\\181511029.h"
+	"..\\Header\\181511066.h"
+	<time.h>
+
+1555208636 source:c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\cpp\181511063.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	"..\\Header\\181511063.h"
+
+1555041812 source:c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\cpp\181511066.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	"..\\Header\\181511066.h"
+	"..\\Header\\181511063.h"
+
+1555208544 source:c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<time.h>
+	"Header\\181511017.h"
+	"Header\\181511021.h"
+	"Header\\181511029.h"
+	"Header\\181511063.h"
+	"Header\\181511066.h"
+
+1554263360 c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\header\\181511017.h
+	<stdio.h>
+
+1554263362 c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\header\\181511021.h
+	<stdio.h>
+	<malloc.h>
+	<stdbool.h>
+
+1554346127 c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\header\\181511029.h
+	<stdio.h>
+
+1554265940 c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\header\\181511063.h
+	<stdio.h>
+
+1554346773 c:\users\rezuki\downloads\compressed\ini yang udah bener\ini yang udah bener\header\\181511066.h
+	<stdio.h>
+
+1555714802 source:c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\update 21 april\cpp\181511021.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	<windows.h>
+	<time.h>
+	"..\\Header\\181511017.h"
+	"..\\Header\\181511021.h"
+	"..\\Header\\181511029.h"
+	"..\\Header\\181511066.h"
+
+1555714286 c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\update 21 april\\header\\181511017.h
+	<stdio.h>
+
+1555199946 c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\update 21 april\\header\\181511021.h
+	<stdio.h>
+	<malloc.h>
+	<stdbool.h>
+
+1555199946 c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\update 21 april\\header\\181511029.h
+	<stdio.h>
+
+1555199946 c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\update 21 april\\header\\181511066.h
+	<stdio.h>
+
+1555722640 source:c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\update 21 april\cpp\181511029.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	"..\\Header\\181511029.h"
+	"..\\Header\\181511066.h"
+	<time.h>
+
+1555815193 source:c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\update 21 april\cpp\181511063.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<stdbool.h>
+	"..\\Header\\181511063.h"
+
+1555199946 c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\update 21 april\\header\\181511063.h
+	<stdio.h>
+
+1555715024 source:c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\update 21 april\cpp\181511066.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	"..\\Header\\181511017.h"
+	"..\\Header\\181511066.h"
+	"..\\Header\\181511063.h"
+
+1555815193 source:c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\update 21 april\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<time.h>
+	"Header\\181511017.h"
+	"Header\\181511021.h"
+	"Header\\181511029.h"
+	"Header\\181511063.h"
+	"Header\\181511066.h"
+
+1555714286 c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\update 21 april\header\\181511017.h
+	<stdio.h>
+
+1555199946 c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\update 21 april\header\\181511021.h
+	<stdio.h>
+	<malloc.h>
+	<stdbool.h>
+
+1555199946 c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\update 21 april\header\\181511029.h
+	<stdio.h>
+
+1555199946 c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\update 21 april\header\\181511063.h
+	<stdio.h>
+
+1555199946 c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\update 21 april\header\\181511066.h
+	<stdio.h>
+
+1555815473 source:c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\integrasi map\cpp\181511017.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	<string.h>
+	"..\\Header\\181511017.h"
+	"..\\Header\\181511063.h"
+	"..\\Header\\181511066.h"
+
+1555714286 c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\integrasi map\\header\\181511017.h
+	<stdio.h>
+
+1555199946 c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\integrasi map\\header\\181511063.h
+	<stdio.h>
+
+1555199946 c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\integrasi map\\header\\181511066.h
+	<stdio.h>
+
+1555714802 source:c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\integrasi map\cpp\181511021.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	<windows.h>
+	<time.h>
+	"..\\Header\\181511017.h"
+	"..\\Header\\181511021.h"
+	"..\\Header\\181511029.h"
+	"..\\Header\\181511066.h"
+
+1555199946 c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\integrasi map\\header\\181511021.h
+	<stdio.h>
+	<malloc.h>
+	<stdbool.h>
+
+1555199946 c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\integrasi map\\header\\181511029.h
+	<stdio.h>
+
+1555722640 source:c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\integrasi map\cpp\181511029.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	"..\\Header\\181511029.h"
+	"..\\Header\\181511066.h"
+	<time.h>
+
+1555815193 source:c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\integrasi map\cpp\181511063.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<stdbool.h>
+	"..\\Header\\181511063.h"
+
+1555715024 source:c:\users\rezuki\downloads\compressed\update 20 april-20190421t014537z-001\integrasi map\cpp\181511066.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	"..\\Header\\181511017.h"
+	"..\\Header\\181511066.h"
+	"..\\Header\\181511063.h"
+
+1557960246 source:d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\cpp\luthfi_a.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	<windows.h>
+	<time.h>
+	"..\\Header\\Imaniar_S_F.h"
+	"..\\Header\\Luthfi_A.h"
+	"..\\Header\\Rezky_W_S.h"
+	"..\\Header\\Rendi_K_A.h"
+	"..\\Header\\Satria_N_B.h"
+
+1557974011 d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\\header\\imaniar_s_f.h
+	<stdio.h>
+
+1556702924 d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\\header\\luthfi_a.h
+	<stdio.h>
+	<malloc.h>
+	<stdbool.h>
+
+1556702924 d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\\header\\rezky_w_s.h
+	<stdio.h>
+
+1557971216 d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\\header\\rendi_k_a.h
+	<stdio.h>
+	"..\\Header\\Satria_N_B.h"
+
+1557382845 d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\\header\\satria_n_b.h
+	<stdio.h>
+
+1557976859 source:d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\cpp\rendi_k_a.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<stdbool.h>
+	"..\\Header\\Rendi_K_A.h"
+	"..\\Header\\Satria_N_B.h"
+	"..\\Header\\Imaniar_S_F.h"
+
+1557383733 source:d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\cpp\rezky_w_s.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	"..\\Header\\Rezky_W_S.h"
+	"..\\Header\\Satria_N_B.h"
+	<time.h>
+
+1557960060 source:d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\cpp\satria_n_b.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	"..\\Header\\Imaniar_S_F.h"
+	"..\\Header\\Satria_N_B.h"
+	"..\\Header\\Rendi_K_A.h"
+
+1557974489 source:d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<time.h>
+	"Header\\Imaniar_S_F.h"
+	"Header\\Luthfi_A.h"
+	"Header\\Rezky_W_S.h"
+	"Header\\Rendi_K_A.h"
+	"Header\\Satria_N_B.h"
+
+1557974011 d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\header\\imaniar_s_f.h
+	<stdio.h>
+
+1556702924 d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\header\\luthfi_a.h
+	<stdio.h>
+	<malloc.h>
+	<stdbool.h>
+
+1556702924 d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\header\\rezky_w_s.h
+	<stdio.h>
+
+1557971216 d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\header\\rendi_k_a.h
+	<stdio.h>
+	"..\\Header\\Satria_N_B.h"
+
+1557382845 d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\header\\satria_n_b.h
+	<stdio.h>
+
+1557974011 source:d:\salsa\kuliah\semester 2\proyek 2\game\update 02 mei\cpp\imaniar_s_f.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<malloc.h>
+	<string.h>
+	"..\\Header\\Imaniar_S_F.h"
+	"..\\Header\\Rendi_K_A.h"
+	"..\\Header\\Satria_N_B.h"
+
